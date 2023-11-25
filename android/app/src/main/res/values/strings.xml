@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firebasefblog</string>
+    <string name="facebook_app_id">748113597357134</string>
+    <string name="fb_login_protocol_scheme">fb748113597357134</string>
+    <string name="facebook_client_token">e329ed05459bd8072c5b9bfcd6a2e40d</string>
+</resources>

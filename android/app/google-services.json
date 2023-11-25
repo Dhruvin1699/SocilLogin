@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "887258318213",
+    "project_id": "yummy-71102",
+    "storage_bucket": "yummy-71102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887258318213:android:57da074b06efc0036430ec",
+        "android_client_info": {
+          "package_name": "com.example.firebase_yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887258318213-d4bhia05gmutnmqjvavtgl2ng2ima43k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_yummy",
+            "certificate_hash": "dce685ba911cea8e6cde0d4fad2384533f38047e"
+          }
+        },
+        {
+          "client_id": "887258318213-dk6134cqcsrvkm61b08qdcgn48oiqf31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_yummy",
+            "certificate_hash": "6641bcf6e06fe34a82bb40fe7074a8209dfd58d3"
+          }
+        },
+        {
+          "client_id": "887258318213-v7582tdmmseld7op5o1oq58rhtnkq9mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_yummy",
+            "certificate_hash": "58469285be768627f6adf9dc3ea2501e7140e8ab"
+          }
+        },
+        {
+          "client_id": "887258318213-516hub1kevusmsv7knmlin90iin562so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvyaEk7ILEDKyK593HeEUUoH2M9EJUJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887258318213-516hub1kevusmsv7knmlin90iin562so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
